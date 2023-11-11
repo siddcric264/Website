@@ -1,0 +1,394 @@
+.Heading {
+    background-color: rgba(71, 41, 21, 1);
+    color: white;
+    
+    
+   
+    
+    font-family: Arial;
+    
+
+  }
+
+  .homepg{
+    position: absolute;
+    
+    left:30px;
+    
+    font-size: 24px;
+    margin-top: 7px;
+
+  }
+  
+  .about {
+    color: white;
+    row-gap: 50px;
+    margin-left: 42.791%;
+    text-decoration: none;
+    font-size: 18px;
+    margin-top: 7px;
+    position: absolute;
+    
+    
+
+
+  }
+  
+  .Publication {
+    color: white;
+    row-gap: 50px;
+    margin-left: 10.266%;
+    text-decoration: none;
+    font-size: 18px;
+    margin-top: 7px;
+    position: absolute;
+    left:720px;
+    
+    
+
+  }
+  
+  .Research {
+    color: white;
+    row-gap: 50px;
+    margin-left: 10.266%;
+    text-decoration: none;
+    font-size: 18px;
+    margin-top: 7px;
+    position: absolute;
+    left:950px;
+    
+    
+
+  }
+  
+  .Contact {
+    color: white;
+    row-gap: 50px;
+    margin-left: 10.266%;
+    text-decoration: none;
+    font-size:18px;
+    margin-top: 7px;
+    position: absolute;
+    left:1200px;
+    
+    
+
+  }
+  
+  .MarginTop {
+    vertical-align: baseline;
+    
+
+
+  }
+  
+  .topic {
+    margin-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    height: 40px;
+
+  }
+  .backgroundimg{
+    width: 100%;
+    height: 410px;
+    object-fit: cover;
+    margin-top: 0px;
+    opacity: 0.95;
+    filter: brightness(60%);
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+
+  }
+  
+  .image1 {
+    margin-top: 0%;
+
+  }
+  
+  .scientist {
+    width: 26.33%;
+    height: 520px;
+    position: absolute;
+    left: 170px;
+    top: 200px;
+    z-index: -1;
+    object-fit:cover;
+    display:flex;
+
+
+  }
+  
+  .Name {
+    position: absolute;
+    left: 900px;
+    top: 220px;
+    z-index: -1;
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    line-height: 10px;
+
+  }
+  
+  .Position {
+    position: absolute;
+    left: 900px;
+    top: 300px;
+    z-index: -1;
+    color: white;
+    font-size: 25px;
+    line-height: 10px;
+
+  }
+  
+  .homepg {
+    color: white;
+    text-decoration: none;
+
+  }
+  
+  .twitter {
+    position: absolute;
+    left: 950px;
+    top: 360px;
+    z-index: -1;
+    color: white;
+    width: 2.304%;
+    height: 35px;
+    object-fit: cover;
+
+  }
+  
+  .instagram {
+    position: absolute;
+    left: 900px;
+    top: 360px;
+    z-index: -1;
+    color: white;
+    width: 2.304%;
+    height: 35px;
+    object-fit: cover;
+    opacity: 0.5;
+    --column-width: 490px;
+    --column-flex: 490;
+
+  }
+  
+  .para1 {
+    position: absolute;
+    left: 900px;
+    top: 400px;
+    z-index: -1;
+    color: black;
+    line-height: 1.6em;
+    font-size: 18px;
+
+  }
+  
+  .button1 {
+    position: absolute;
+    left: 900px;
+    top: 600px;
+    z-index: -1;
+    color: black;
+    background-color: white;
+    height: 40px;
+    width: 7%;
+    text-align: center;
+
+  }
+  
+  .button1:hover {
+    background-color: rgba(71, 41, 21, 1);
+
+  }
+  
+  .button1img {
+    color: black;
+    text-decoration: none;
+    font-size: 15px;
+    
+  }
+  
+  .button1img:hover {
+    color: black;
+
+  }
+  
+  .researchpara {
+    position: absolute;
+    top: 800px;
+    z-index: -1;
+    font-size: 60px;
+    color: rgb(67, 27, 27);
+    background-color: rgb(221, 212, 212);
+    width: 100%;
+    height: 650px;
+
+  }
+  
+  .para2head {
+    position: absolute;
+    left: 170px;
+
+  }
+  
+  .para2 {
+    top: 55px;
+    left: 900px;
+    font-size: 16px;
+    position: absolute;
+  
+    z-index: -1;
+    color: black;
+    line-height: 1.6em;
+    font-size: 18px;
+
+  }
+
+  .button2{
+    color:black;
+    text-decoration: none;
+    font-size: 15px;
+
+    
+  
+  }
+
+  .button2:hover,
+    .button2:active{
+    color:black;
+
+    }
+  
+
+  .button2color{
+    background-color: transparent;
+    height: 40px;
+    width: 20%;
+
+  }
+
+  .button2color:hover{
+    background-color: rgba(71, 41, 21, 1);
+
+  }
+  
+  .Publication2{
+    position: absolute;
+    top: 1500px;
+    z-index: -1;
+    font-size: 60px;
+    color: rgb(67, 27, 27);
+    left: 170px;
+    width: 85%;
+    height: 650px;
+
+  }
+
+  .para3details{
+    font-size:24px;
+    position: absolute;
+    top:55px;
+    z-index: -1;
+    height: 190px;
+    left:730px;
+
+    }
+
+    .button3{
+      color:black;
+      text-decoration: none;
+      font-size: 15px;
+
+
+    
+    }
+  
+    .button3:hover,
+      .button3:active{
+      color:black;
+
+      }
+    
+  
+    .button3color{
+      background-color: transparent;
+      height: 40px;
+      width: 29%;
+
+    }
+  
+    .button3color:hover{
+      background-color: rgba(71, 41, 21, 1);
+
+    }
+
+    .contact2{
+      position: absolute;
+      top: 2000px;
+      z-index: -1;
+      
+      background-color: rgba(71, 41, 21, 1);
+      left: 0px;
+      
+      
+
+      
+      
+      width: 100%;
+      height: 590px;
+
+    }
+
+    .contactheading{
+      position:absolute;
+      left:170px;
+      color:white;
+      font-size: 60px;
+
+    }
+
+    .underheading{
+      position: absolute;
+      top: 200px;
+      left:170px;
+      z-index: -1;
+      font-size: 20px;
+      color:white ;
+
+    }
+
+    .email{
+      text-decoration: none;
+      color:white;
+
+    }
+
+    .tweet {
+      color: white;
+      width: 15.5%;
+      height: 35px;
+      object-fit: cover;
+
+    }
+    
+    .ins {
+      color: white;
+      width: 15.5%;
+      height: 35px;
+      object-fit: cover;
+      opacity: 0.5;
+      --column-width: 490px;
+      --column-flex: 490;
+
+    }
+
+
+    
